@@ -49,4 +49,4 @@ This project demonstrates the use of SQL for exploring financial customer data, 
 
 ---
 
-*Created as a SQL portfolio project for data analysis practice.*
+*Created as a SQL portfolio project for data analysis .*
